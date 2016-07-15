@@ -1,13 +1,15 @@
 <html>
 	
 	<body>
-		<header>
-		
-		<H1>Git</h1>
+		<header>		
+			<H1>Git</h1>
 		</header>
 		<ul>
-			<li> 깃이란</li>
+			<li> Git 소개</li>
 			<li> 버전 </li>
+			<li>Branch</li>
+			<li>브랜치</li>
+			<li>충돌</li>
 		</ul>
 	</body>
 
